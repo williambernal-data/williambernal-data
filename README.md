@@ -1,9 +1,30 @@
 ## William Bernal
 
-🧑‍💻 Sobre mí
+Ingeniero Agrónomo en transición hacia Data Analytics.
 
-Soy Ingeniero Agrónomo con experiencia en el sector agropecuario colombiano, donde he trabajado en evaluación de proyectos productivos, análisis financiero rural, gestión de cartera y acompañamiento técnico a productores. A lo largo de mi trayectoria he desarrollado un fuerte interés por el análisis de información como herramienta para comprender problemas, identificar oportunidades y apoyar la toma de decisiones.
+Tengo experiencia en:
 
-Actualmente complemento mi experiencia profesional con formación en análisis de datos, trabajando con herramientas como SQL, Python, Power BI y Excel para la limpieza, análisis y visualización de información.
+🌱 Agricultura
+🌎 Medio Ambiente
+📊 Análisis de Datos
+💰 Finanzas Agropecuarias
 
-Me interesan especialmente los proyectos relacionados con agricultura, sostenibilidad, impacto social, medio ambiente y desarrollo rural, áreas en las que puedo aportar tanto mi conocimiento del sector como una perspectiva analítica orientada a generar información útil para la toma de decisiones.
+Actualmente me estoy formando en Data Analytics con TripleTen, desarrollando proyectos en:
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Business Intelligence
+
+## Proyectos destacados
+
+🔹 Urban Mobility Analysis LATAM
+🔹 E-commerce Retention Analysis
+🔹 Data Visualization Projects
+
+## Tecnologías
+
+Python | SQL | Power BI | Excel | GIS
+
+📍 Colombia
