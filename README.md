@@ -1,6 +1,6 @@
 ## William Bernal
 
-Ingeniero Agrónomo en transición hacia Data Analytics.
+Ingeniero Agrónomo |  Data Analyst & BI | AgTech & ESG .
 
 Tengo experiencia en:
 
