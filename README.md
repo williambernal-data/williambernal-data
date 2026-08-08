@@ -4,7 +4,7 @@ Ingeniero Agrónomo en transición hacia Data Analytics, con experiencia previa 
 
 Busco oportunidades remotas en analítica de datos — con foco en Agtech, ESG y fintech rural.
 
-📍 Tunja, Colombia · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/) · [Portafolio](https://TU-PORTAFOLIO-AQUI)
+📍 Tunja, Colombia · [LinkedIn](www.linkedin.com/in/william-bernal-data)
 
 ---
 
