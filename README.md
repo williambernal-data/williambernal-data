@@ -1,4 +1,4 @@
-## William Bernal
+## William Andres Bernal
 
 Ingeniero Agrónomo |  Data Analyst & BI | AgTech & ESG .
 
