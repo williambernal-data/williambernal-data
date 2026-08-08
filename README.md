@@ -9,7 +9,7 @@ Tengo experiencia en:
 📊 Análisis de Datos
 💰 Finanzas Agropecuarias
 
-Actualmente me estoy formando en Data Analytics con TripleTen, desarrollando proyectos en:
+Especializado en analítica de negocio con foco en agroindustria y fintech rural:
 
 - Python
 - SQL
